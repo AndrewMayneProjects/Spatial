@@ -30,3 +30,8 @@ I created two video tracks, one for the left eye and one for the right and sligh
 
 To convert the video into the Apple Spatial video format I used Mike Swansons CLI tool: https://blog.mikeswanson.com/spatial
 
+## Citation
+All source videos were created by OpenAI
+https://openai.com/bibtex/videoworldsimulators2024.bib
+
+
