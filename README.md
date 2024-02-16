@@ -5,14 +5,20 @@ Spatial 3D videos for the Apple Vision Pro
 These are spatial 3D videos designed for the Apple Vision Pro converted from the example videos produced by OpenAI's Sora video generator: https://openai.com/research/video-generation-models-as-world-simulators
 
 ## How to watch the videos on an Apple Vision Pro
+### Via direct download on Apple Vision Pro
+1. Click and hold on a video link until you get a menu.
+2. Download from the menu.
+3. Open your files folder and watch.
+
+### Via AirDrop
 1. Download the videos to an iPhone or Mac.
 2. AirDrop a video to a nearby Apple Vision Pro.
 3. Watch!
 
 
 # Videos
-https://github.com/AndrewMayneProjects/Spatial/raw/main/Lagos_spatial.mov
 https://github.com/AndrewMayneProjects/Spatial/raw/main/Big_Sur_spatial.mov
+https://github.com/AndrewMayneProjects/Spatial/raw/main/Lagos_spatial.mov
 https://github.com/AndrewMayneProjects/Spatial/raw/main/Amalfi_spatial.mov
 https://github.com/AndrewMayneProjects/Spatial/raw/main/Robot_spatial.mov
 https://github.com/AndrewMayneProjects/Spatial/raw/main/Santorini_spatial.mov
