@@ -10,6 +10,10 @@ These are spatial 3D videos designed for the Apple Vision Pro converted from the
 3. Watch!
 
 
+# Videos
+https://github.com/AndrewMayneProjects/Spatial/raw/main/Lagos_spatial.mov
+
+
 ## Method
 I created two video tracks, one for the left eye and one for the right and slightly shifted the timing of the tracks based upon the direction of the movement of the video. This creates a simulated stereoscopic 3D effect.
 
