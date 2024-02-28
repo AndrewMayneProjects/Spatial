@@ -1,5 +1,5 @@
 # Spatial
-Spatial 3D videos for the Apple Vision Pro
+OpenAI Sora videos turned into Spatial 3D videos for the Apple Vision Pro
 
 ## About
 These are spatial 3D videos designed for the Apple Vision Pro converted from the example videos produced by OpenAI's Sora video generator: https://openai.com/research/video-generation-models-as-world-simulators
